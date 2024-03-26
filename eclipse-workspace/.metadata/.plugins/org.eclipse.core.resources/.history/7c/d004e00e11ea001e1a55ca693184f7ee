@@ -1,0 +1,14 @@
+package JavaArray;
+
+public class ArrayPrac {
+int[] arr= new int[5];
+arr[0]=10;
+arr[0]=20;
+arr[0]=400;
+arr[0]=100;
+arr[0]=800;
+	
+	public static void main (String[] args) {
+		
+	}
+}
